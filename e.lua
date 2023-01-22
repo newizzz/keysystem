@@ -1,5 +1,5 @@
 local ui = script.Parent.loader
-local key = "niggaballs"
+local key = "nballs"
 local uienter = ui.key
 ui.Position = UDim2.new(0.5,0,-5,0)
 --[[
